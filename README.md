@@ -46,11 +46,21 @@ Bare Browserの紹介記事: https://note.com/daizu_lab/n/nc20fecb20159
 
 ### Twitter
 
+### Bad URLs for Twitter
+
+悪質なURLを含むTwitter投稿を非表示にするフィルターです。スパムで使われやすいURLや、悪質なサイトのURLを対象にしています。抜け漏れを見かけた場合は[issue](https://github.com/App-Grove/AppGrove-s-Block-Filters/issues)から報告してください。
+Twitterでの投稿非表示のみを対象にしているため、実際のアクセスをブロックしたい場合は、[uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin)等のフィルターを使用してください。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fbad_urls.txt\&title=Bad%20URLs%20for%20Twitter)
+
+```
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/bad_urls.txt
+``` 
+
 #### daizu's twitter mute words
 
 Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
 このフィルターは、Twitterの投稿から受けるストレスの軽減を目指しているもので、言葉狩りや表現規制に賛同するものではなく、むしろ自衛を容易にすることで表現の自由の保護につながると考えています。
-一部のスパム投稿に使われやすいドメインを含む投稿もブロック対象としています。見つけ次第追加しますが、抜け漏れを見かけた場合は[issue](https://github.com/App-Grove/AppGrove-s-Block-Filters/issues)から報告してください。目的が異なるためフィルターの分離も検討しています。また、Twitterでの投稿非表示のみを対象にしているため、実際のアクセスをブロックしたい場合は、[uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin)等のフィルターを使用してください。
 
 [インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fmute_words.txt\&title=daizu%27s%20twitter%20mute%20words)
 
