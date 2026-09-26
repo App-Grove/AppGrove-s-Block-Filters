@@ -62,4 +62,4 @@ class GenerateMuteUsers:
             filters_lines.append(self.FILTER_BASE.format(users=user_list))
         # ファイルに書き込む
         with open(self.DIST, "w", encoding="utf-8") as f:
-            f.write("\n".join(filters_lines))
+            f.write("\n".join(filters_lines) + "\n")
