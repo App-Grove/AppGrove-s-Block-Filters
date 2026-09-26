@@ -1,0 +1,4 @@
+! Title: Bad URLs for Twitter
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
+
+x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com|twitter-blocked-checker\.vercel\.app/)
