@@ -133,6 +133,7 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/YouTube/end_screen.txt
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/YouTube/premium_survey.txt
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Bing/copilot_followup.txt
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/bad_urls.txt
 ```
 
 ## ライセンス
