@@ -46,7 +46,7 @@ Bare Browserの紹介記事: https://note.com/appgrove/n/nc20fecb20159
 
 ### Twitter
 
-### Bad URLs for Twitter
+#### Bad URLs for Twitter
 
 悪質なURLを含むTwitter投稿を非表示にするフィルターです。スパムで使われやすいURLや、悪質なサイトのURLを対象にしています。抜け漏れを見かけた場合は[issue](https://github.com/App-Grove/AppGrove-s-Block-Filters/issues)から報告してください。
 Twitterでの投稿非表示のみを対象にしているため、実際のアクセスをブロックしたい場合は、[uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin)等のフィルターを使用してください。
