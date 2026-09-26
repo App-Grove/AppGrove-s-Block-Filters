@@ -29,7 +29,7 @@ Androidで拡張機能をサポートしたブラウザはあまり多くあり�
 Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。Playストアから更新できます。  
 Bare BrowserはManifest V2をサポートしており、uBlock Originが組み込まれています。ストアにないためObtanium等を使用してGitHubからインストールしてください。
 
-Bare Browserの紹介記事: https://note.com/daizu_lab/n/nc20fecb20159
+Bare Browserの紹介記事: https://note.com/appgrove/n/nc20fecb20159
 
 ### uBlock Origin liteでの使い方
 ※ 十分にテストしていません。動作報告や手順の更新を歓迎します。
