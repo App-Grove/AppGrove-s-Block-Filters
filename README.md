@@ -107,7 +107,7 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/
 
 #### I don't have questions for Copilot while searching on Bing
 
-Bing検索の株に表示されるCopilotの質問欄を非表示にするためのフィルターです。
+Bing検索の下部に表示されるCopilotの質問欄を非表示にするためのフィルターです。
 
 [インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FBing%2Fcopilot_followup.txt\&title=I%20don%27t%20have%20questions%20for%20Copilot%20while%20searching%20on%20Bing)
 ```
