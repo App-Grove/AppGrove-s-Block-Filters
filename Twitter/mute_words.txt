@@ -1,5 +1,5 @@
 ! Title: daizu's twitter mute words
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 ! 流行
 x.com##div[data-testid="cellInnerDiv"]:has-text(/広陵|( ˃ᯅ˂ )|( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )|しぐれうい|ういママ|リスナー|mezzo|メゾピアノ|外商|堀大輔/)

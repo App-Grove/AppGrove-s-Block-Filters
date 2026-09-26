@@ -1,5 +1,5 @@
 ! Title: I don't have questions for Copilot while searching on Bing
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 ! フォローアップ入力欄のみを非表示にする
 !www.bing.com##.composer_wrapper

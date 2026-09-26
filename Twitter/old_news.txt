@@ -1,5 +1,5 @@
 ! Title: I don't need old news on Twitter
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 !Gigazine過去投稿
 x.com##article[data-testid="tweet"]:has(div[data-testid="User-Name"] a[href="/gigazine"]):has(div[data-testid="tweetText"]:has-text(/\(20\d\d\)\s*$/))

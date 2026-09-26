@@ -1,5 +1,5 @@
 ! Title: Hide YouTube End Screen Contents
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 ! YouTube動画の最後に表示されるコンテンツを非表示にする
 
 www.youtube.com##.ytp-endscreen-content

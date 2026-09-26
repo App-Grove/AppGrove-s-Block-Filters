@@ -1,5 +1,5 @@
 ! Title: Don't ask me about YouTube Premium
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 ! License: GPL-3.0-or-later
 ! SPDX-License-Identifier: GPL-3.0-or-later

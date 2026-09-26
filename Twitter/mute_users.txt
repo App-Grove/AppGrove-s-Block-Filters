@@ -1,5 +1,5 @@
 ! Title: daizu's twitter mute users
-! Homepage: https://github.com/daizu-007/daizu-s-block-list
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 ! 議論が分かれやすい話題を扱うアカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/yominokuni140"],[href="/tkzwgrs"],[href="/yonaoshi_com"],[href="/yohsuken"],[href="/sonzaishinai1"],[href="/DEATHDOL_NOTE"],[href="/SoundJourneyDS"]))
 ! 拡散されやすい投稿が多いアカウント

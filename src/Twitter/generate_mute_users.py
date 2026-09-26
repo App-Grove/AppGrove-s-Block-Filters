@@ -13,7 +13,7 @@ class GenerateMuteUsers:
         self.USER_BASE = '[href="/{name}"]'
         self.FILTER_BASE = 'x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is({users}))'
         self.TITLE = "daizu's twitter mute users"
-        self.HOMEPAGE = "https://github.com/daizu-007/daizu-s-block-list"
+        self.HOMEPAGE = "https://github.com/App-Grove/AppGrove-s-Block-Filters"
 
     # 外部から実行するメソッド
     def run(self):
