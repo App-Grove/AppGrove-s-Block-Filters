@@ -25,11 +25,14 @@ Google Chromeでは、uBlock Originが必要とするManifest V2がサポート�
 Androidで拡張機能をサポートしたブラウザはあまり多くありません。FireFox系ブラウザであればほとんどの場合拡張機能をサポートしていますが、個人的には以下のChromium系ブラウザを推奨します:
 - [Titanium Browser](https://play.google.com/store/apps/details?id=io.github.jqssun.helium)
 - [Bare Browser](https://github.com/BareBrowser/bare-browser)
+- [Vivaldi Browser](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 
 Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。Playストアから更新できます。  
 Bare BrowserはManifest V2をサポートしており、uBlock Originが組み込まれています。ストアにないためObtanium等を使用してGitHubからインストールしてください。
+Vivaldi Browserでも裏技的にuBlock Originを動かせます。ブラウザ自体が優秀であるため推奨リストに入れていますが、いつまで使えるかは不明で、近いうちにManifest V2サポートを終了するはずです。
 
 Bare Browserの紹介記事: https://note.com/appgrove/n/nc20fecb20159
+VivaldiでuBlock Originを使う方法: https://note.com/appgrove/n/nbd987e64136b
 
 ### uBlock Origin liteでの使い方
 ※ 十分にテストしていません。動作報告や手順の更新を歓迎します。
