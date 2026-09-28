@@ -28,7 +28,7 @@ Androidで拡張機能をサポートしたブラウザはあまり多くあり�
 - [Vivaldi Browser](https://play.google.com/store/apps/details?id=com.vivaldi.browser)
 
 Titanium BrowserはManifest V2をサポートしており、uBlock Originをインストールできます。Playストアから更新できます。  
-Bare BrowserはManifest V2をサポートしており、uBlock Originが組み込まれています。ストアにないためObtanium等を使用してGitHubからインストールしてください。
+Bare BrowserはManifest V2をサポートしており、uBlock Originが組み込まれています。ストアにないためObtanium等を使用してGitHubからインストールしてください。  
 Vivaldi Browserでも裏技的にuBlock Originを動かせます。ブラウザ自体が優秀であるため推奨リストに入れていますが、いつまで使えるかは不明で、近いうちにManifest V2サポートを終了するはずです。
 
 Bare Browserの紹介記事: https://note.com/appgrove/n/nc20fecb20159
