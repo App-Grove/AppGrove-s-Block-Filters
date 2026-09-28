@@ -2,12 +2,11 @@
 ! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 ! 流行
-x.com##div[data-testid="cellInnerDiv"]:has-text(/広陵|( ˃ᯅ˂ )|( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )|しぐれうい|ういママ|リスナー|mezzo|メゾピアノ|外商|堀大輔/)
-
+x.com##div[data-testid="cellInnerDiv"]:has-text(/( ˃ᯅ˂ )|( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )|しぐれうい|ういママ|リスナー|mezzo|メゾピアノ|外商|堀大輔/)
 ! 暴言・誹謗中傷・差別用語
 x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|花畑|義務敗|義務教育の敗北/)
 ! 煽り・冷笑系の絵文字・煽り文句
-x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|ドカ鬱/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドーパミン|ドパミン|技術者倫理|ドカ鬱|冷笑|うお(w|W|ｗ|Ｗ)|お、おう(w|W|ｗ|Ｗ)|きちー︎︎(w|W|ｗ|Ｗ)|ええて(w|W|ｗ|Ｗ)/)
 ! 短気
 x.com##div[data-testid="cellInnerDiv"]:has-text(/カチン|嫌がらせ/)
 ! 男女論争・性関連の話題
