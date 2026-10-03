@@ -33,3 +33,5 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/淫夢|ヒカマニ|ヒカマ�
 x.com##div[data-testid="cellInnerDiv"]:has-text(/ヴィーガン|ベジタリアン/)
 ! 悪質URL
 x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com|twitter-blocked-checker\.vercel\.app/)
+! その他
+x.com##div[data-testid="cellInnerDiv"]:has-text(/予後|脳死/)
