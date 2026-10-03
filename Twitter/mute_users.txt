@@ -14,3 +14,5 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"],[href="/surumelock"],[href="/dstar92351213"],[href="/reiwa_uma"],[href="/5percent_Dora"],[href="/NaiTUbot"],[href="/baw_peca"]))
 ! 特定のリンク
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/wjgwmd"]))
+! リプライ
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/ariowilliams092"]))
