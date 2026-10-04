@@ -7,7 +7,7 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 ! 地震予測系アカウント
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/nankaiEQ"]))
 ! 暗号資産関連アカウント
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/Thecoinconnect"],[href="/ClippyMSFT"]))
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/Thecoinconnect"],[href="/Nguyn31760998"],[href="/ClippyMSFT"]))
 ! ○○集
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/fatmabuyukardic"],[href="/snsnokyoufu"],[href="/0ari_9"],[href="/bad_texter"],[href="/zetaMGS"]))
 ! 個人的に苦手な話題
