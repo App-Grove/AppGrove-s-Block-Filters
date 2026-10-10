@@ -16,7 +16,7 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/チー牛|撮り鉄|オタク�
 ! 生成AI論争
 x.com##div[data-testid="cellInnerDiv"]:has-text(/盗作|生成AIユーザー|AI(絵師|術師|技師)|海賊版|反AI|児童ポルノ|児ポ|無断生成AI|フリーライド|フリーライダー|AI学習|著作権侵害|AI使用禁止|パブリックコメント|パブコメ|30条の4|権利問題/)
 ! 国籍・民族・外国人関連の話題
-x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣の\?国|スパイ|外人|外国人|亡命/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/クルド人|K国|隣の?国|スパイ|外人|外国人|亡命/)
 ! 政治・社会・イデオロギー関連
 x.com##div[data-testid="cellInnerDiv"]:has-text(/反ワク|ネトウヨ|極(右|左)|(右|左)翼|パヨク|財務省|裏金|利権|マスコミ|マスゴミ|既得権益|警察|警官|警備員|農協|科捜研|避難所|エプスタイン|助成金/)
 ! 不倫・ゴシップ・炎上事件
