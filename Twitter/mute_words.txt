@@ -4,9 +4,9 @@
 ! 流行
 x.com##div[data-testid="cellInnerDiv"]:has-text(/\( ˃ᯅ˂ \)|\( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ \)|しぐれうい|ういママ|リスナー|mezzo|メゾピアノ|外商|堀大輔|KAITO|ティアラ|ボカロ/)
 ! 暴言・誹謗中傷・差別用語
-x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|ガイジ|障害者|障碍|障がい者|花畑|義務敗|義務教育の敗北/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/アホ|死ね|氏ね|糖質|統合失調|アスペルガー|アスペ|キチガイ|🫚👨‍⚕️|ガイジ|障害者|障害児|障碍|障がい者|障がい児|花畑|義務敗|義務教育の敗北/)
 ! 煽り・冷笑系の絵文字・煽り文句
-x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|ドパガキ|ドー?パミン|技術者倫理|ドカ鬱|冷笑|うお(w|W|ｗ|Ｗ)|お、おう(w|W|ｗ|Ｗ)|ええて(w|W|ｗ|Ｗ)|きちー(w|W|ｗ|Ｗ)/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/🤓|😮‍💨|😤|😰|😂|🫠|🙃|😞|🙄|😳|🥹|ガー(❗|‼️)|ドパガキ|ドー?パミン|技術者倫理|ドカ鬱|冷笑|うお(w|W|ｗ|Ｗ)|お、おう(w|W|ｗ|Ｗ)|ええて(w|W|ｗ|Ｗ)|きちー(w|W|ｗ|Ｗ)/)
 ! 短気
 x.com##div[data-testid="cellInnerDiv"]:has-text(/カチン|嫌がらせ/)
 ! 男女論争・性関連の話題
@@ -34,4 +34,4 @@ x.com##div[data-testid="cellInnerDiv"]:has-text(/ヴィーガン|ベジタリア
 ! 悪質URL
 x.com##div[data-testid="cellInnerDiv"]:has-text(/link-card\.online|linkmisty\.com|twitter-blocked-checker\.vercel\.app/)
 ! その他
-x.com##div[data-testid="cellInnerDiv"]:has-text(/予後|脳死|過激派/)
+x.com##div[data-testid="cellInnerDiv"]:has-text(/予後|脳死|過激派|ゆってる|ゆわれた|ゆわれる/)
