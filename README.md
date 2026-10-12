@@ -60,15 +60,13 @@ Twitterでの投稿非表示のみを対象にしているため、実際のア�
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/bad_urls.txt
 ``` 
 
-#### daizu's twitter mute words
+#### Hide Tweets by User Blocking Me
+自分のことをブロックしているユーザーによるTwitter投稿を非表示にするフィルターです。リポストの可否で判定しています。
 
-Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
-このフィルターは、Twitterの投稿から受けるストレスの軽減を目指しているもので、言葉狩りや表現規制に賛同するものではなく、むしろ自衛を容易にすることで表現の自由の保護につながると考えています。
-
-[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fmute_words.txt\&title=daizu%27s%20twitter%20mute%20words)
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fhide_blockedby.txt\&title=Hide%20Tweets%20by%20User%20Blocking%20Me)
 
 ```
-https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/mute_words.txt
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/hide_blockedby.txt
 ```
 
 #### I don't need old news on Twitter
@@ -79,6 +77,17 @@ Twitterで古いニュースを非表示にします。現在は、Gigazineの�
 
 ```
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/old_news.txt
+```
+
+#### daizu's twitter mute words
+
+Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
+このフィルターは、Twitterの投稿から受けるストレスの軽減を目指しているもので、言葉狩りや表現規制に賛同するものではなく、むしろ自衛を容易にすることで表現の自由の保護につながると考えています。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fmute_words.txt\&title=daizu%27s%20twitter%20mute%20words)
+
+```
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/mute_words.txt
 ```
 
 #### daizu's twitter mute users
