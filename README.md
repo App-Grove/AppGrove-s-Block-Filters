@@ -155,10 +155,11 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/
 - [Don't ask me about YouTube Premium](YouTube/premium_survey.txt): [GPL-3.0-or-later](LICENSE-GPL-3.0-or-later.txt)
 
 ## クレジット
-このフィルターリストの作成にあたって、以下を参考にさせていただきました。
+このフィルターリストの作成にあたって、以下を参考にさせていただきました:
 - [uB-filter-by-kdroidwin](https://github.com/Kdroidwin/uB-filter-by-kdroidwin) by [Kdroidwin](https://github.com/Kdroidwin): uBlockOrigin向けリストの基本形を参考にしました
 - [gist:488dac5770c2a3cc36edc9139b625190](https://gist.github.com/Yuki2718/488dac5770c2a3cc36edc9139b625190) by [Yuki2718](https://github.com/Yuki2718): Twitterで特定ユーザーの投稿を非表示にする方法を参考にしました  
 - [fanboy_annoyance_specific_hide.txt](https://github.com/easylist/easylist/blob/master/fanboy-addon/fanboy_annoyance_specific_hide.txt): YouTube Premiumのアンケートを非表示にする方法を参考にしました
+- [gist:96109d2dfe58769a7dca2c3045ce7d64](https://gist.github.com/Yuki2718/96109d2dfe58769a7dca2c3045ce7d64) by [Yuki2718](https://github.com/Yuki2718): 自分自身の投稿を単語ミュートの対象外にする方法を参考にしました
   
 このフィルターの作成に協力してくださったすべての方に感謝を申し上げます。以下に、主な貢献者の主な貢献内容を記載します。
 - [Kdroidwin](https://github.com/Kdroidwin)
@@ -166,3 +167,4 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/
   - [Twitter向けミュートワードの追加](https://github.com/App-Grove/AppGrove-s-Block-Filters/pull/1)
 - [Yuki2718](https://github.com/Yuki2718)
   - [uBlock Originで特定ユーザーの投稿を非表示にする方法の提供](https://x.com/Yuki27183/status/2082784790269534284?s=20)
+  - [自分自身の投稿を単語ミュートの対象外にする方法の提供](https://x.com/Yuki27183/status/2104939353596461457?s=20)
