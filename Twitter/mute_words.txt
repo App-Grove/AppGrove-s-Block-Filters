@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
 
 ! 流行
-x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "( ˃ᯅ˂ )") or contains(text(), "( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )") or contains(text(), "しぐれうい") or contains(text(), "ういママ") or contains(text(), "リスナー") or contains(text(), "mezzo") or contains(text(), "メゾピアノ") or contains(text(), "外商") or contains(text(), "堀大輔") or contains(text(), "KAITO") or contains(text(), "ティアラ") or contains(text(), "ボカロ")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
+x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "( ˃ᯅ˂ )") or contains(text(), "( ˃̣̣̥᷄ᯅ˂̣̣̥᷅ )") or contains(text(), "堀大輔") or contains(text(), "KAITO") or contains(text(), "ティアラ") or contains(text(), "ボカロ")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
 ! 暴言・誹謗中傷・差別用語
 x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "アホ") or contains(text(), "死ね") or contains(text(), "氏ね") or contains(text(), "糖質") or contains(text(), "統合失調") or contains(text(), "アスペルガー") or contains(text(), "アスペ") or contains(text(), "キチガイ") or contains(text(), "🫚👨‍⚕️") or contains(text(), "ガイジ") or contains(text(), "障害者") or contains(text(), "障害児") or contains(text(), "障碍") or contains(text(), "障がい者") or contains(text(), "障がい児") or contains(text(), "花畑") or contains(text(), "義務敗") or contains(text(), "義務教育の敗北")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
 ! 煽り・冷笑系の絵文字・煽り文句
@@ -10,7 +10,7 @@ x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(),
 ! 短気
 x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "カチン") or contains(text(), "嫌がらせ")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
 ! 男女論争・性関連の話題
-x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "フェミ") or contains(text(), "フェミニスト") or contains(text(), "女性専用車両") or contains(text(), "水商売") or contains(text(), "売春") or contains(text(), "弱者男性") or contains(text(), "男") or contains(text(), "女") or contains(text(), "トイレ") or contains(text(), "性別") or contains(text(), "痴漢") or contains(text(), "冤罪")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
+x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "フェミ") or contains(text(), "フェミニスト") or contains(text(), "女性専用車両") or contains(text(), "水商売") or contains(text(), "売春") or contains(text(), "弱者男性") or contains(text(), "トイレ") or contains(text(), "性別") or contains(text(), "痴漢") or contains(text(), "冤罪")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
 ! オタク叩き
 x.com##body:xpath(//div[@data-testid="cellInnerDiv" and .//span[contains(text(), "チー牛") or contains(text(), "撮り鉄") or contains(text(), "オタクくん")] and .//div[@data-testid="User-Name"]/div/div/a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])
 ! 生成AI論争
