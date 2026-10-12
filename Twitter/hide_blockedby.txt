@@ -1,0 +1,6 @@
+! Title: Hide Tweets by User Blocking Me
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
+
+! リツイートボタンが無効化されているツイートを非表示にする
+x.com##article[data-testid="tweet"]:has([data-testid="retweet"][aria-disabled="true"])
+x.com##article[data-testid="tweet"]:has([data-testid="retweet"][disabled])
