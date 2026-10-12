@@ -7,9 +7,15 @@ class GenerateMuteWords:
         self.REPO_ROOT = repo_root
         self.SRC = self.REPO_ROOT / "sources/Twitter/mute_words.src.txt"
         self.DIST = self.REPO_ROOT / "Twitter/mute_words.txt"
+        self.EXCLUDE_CELL = 'not(.//div[@contenteditable="true" or starts-with(@data-testid,"tweetTextarea")])'
+        self.EXCLUDE_SPAN = (
+            'not(ancestor-or-self::div[@contenteditable="true" or @role="textbox" '
+            'or starts-with(@data-testid,"tweetTextarea")])'
+        )
         self.FILTER_BASE = (
             'x.com##body:xpath(//div[@data-testid="cellInnerDiv" '
-            'and .//span[{words}] '
+            'and {exclude_cell} '
+            'and .//span[{exclude_span} and ({words})] '
             'and .//div[@data-testid="User-Name"]/div/div/'
             'a[@role="link" and not(@href=//a[@aria-label="プロフィール"]/@href)]])'
         )
@@ -83,4 +89,10 @@ class GenerateMuteWords:
             word_conditions = " or ".join(
                 f"contains(text(), {self._xpath_literal(word)})" for word in words
             )
-            filters_lines.append(self.FILTER_BASE.format(words=word_conditions))
+            filters_lines.append(
+                self.FILTER_BASE.format(
+                    words=word_conditions,
+                    exclude_cell=self.EXCLUDE_CELL,
+                    exclude_span=self.EXCLUDE_SPAN,
+                )
+            )
