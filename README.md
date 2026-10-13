@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/
 ``` 
 
 #### Hide Tweets by User Blocking Me
-自分のことをブロックしているユーザーによるTwitter投稿を非表示にするフィルターです。リポストの可否で判定しています。
+自分のことをブロックしているユーザーによるTwitter投稿を非表示にするフィルターです。リポストの可否と鍵アイコンの有無で判定しています。
 
 [インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fhide_blockedby.txt\&title=Hide%20Tweets%20by%20User%20Blocking%20Me)
 
