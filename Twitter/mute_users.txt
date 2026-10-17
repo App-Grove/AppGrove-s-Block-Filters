@@ -11,7 +11,7 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 ! ○○集
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/fatmabuyukardic"],[href="/snsnokyoufu"],[href="/0ari_9"],[href="/bad_texter"],[href="/zetaMGS"]))
 ! 個人的に苦手な話題
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"],[href="/surumelock"],[href="/dstar92351213"],[href="/reiwa_uma"],[href="/5percent_Dora"],[href="/NaiTUbot"],[href="/baw_peca"]))
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/p_ka2295079"],[href="/surumelock"],[href="/dstar92351213"],[href="/reiwa_uma"],[href="/100dayretire"],[href="/5percent_Dora"],[href="/NaiTUbot"],[href="/baw_peca"]))
 ! 特定のリンク
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/wjgwmd"]))
 ! リプライ
