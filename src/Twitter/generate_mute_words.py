@@ -88,12 +88,11 @@ class GenerateMuteWords:
     def _append_filter(self, filters_lines, words):
         if words:
             word_conditions = " or ".join(
-                f"contains(text(), {self._xpath_literal(word)})" for word in words
+                f"contains(., {self._xpath_literal(word)})" for word in words
             )
             filters_lines.append(
                 self.FILTER_BASE.format(
                     words=word_conditions,
-                    exclude_cell=self.EXCLUDE_CELL,
                     exclude_span=self.EXCLUDE_SPAN,
                 )
             )
