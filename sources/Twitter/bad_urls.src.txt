@@ -1,3 +1,5 @@
 link-card.online
 linkmisty.com
 twitter-blocked-checker.vercel.app
+coronamng.store
+designbuilder.store
