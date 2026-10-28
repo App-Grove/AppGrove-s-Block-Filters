@@ -15,4 +15,4 @@ x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-test
 ! 特定のリンク
 x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/wjgwmd"]))
 ! リプライ
-x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/ariowilliams092"]))
+x.com##div[style^="transform"][data-testid="cellInnerDiv"]:has(article[data-testid="tweet"] div[data-testid="User-Name"] a:is([href="/ariowilliams092"],[href="/OverThePlaces"]))
