@@ -1,0 +1,6 @@
+! Title: Native Context Menu for Twitter
+! Homepage: https://github.com/App-Grove/AppGrove-s-Block-Filters
+
+! This filter is based on a custom DOM analysis, but is influenced by a [Reddit post](https://www.reddit.com/r/uBlockOrigin/s/VWGM2CgfMW).
+
+x.com##+js(aeld, contextmenu, native code, elements, #react-root)

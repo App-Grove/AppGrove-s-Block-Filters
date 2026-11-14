@@ -79,6 +79,16 @@ Twitterで古いニュースを非表示にします。現在は、Gigazineの�
 https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/old_news.txt
 ```
 
+#### Native Context Menu for Twitter
+Twitterの画像を右クリックした際に表示されるコンテキストメニューを、通常のブラウザのものに戻すためのフィルターです。
+独自のDOM分析に基づいていますが、[Reddit投稿](https://www.reddit.com/r/uBlockOrigin/s/VWGM2CgfMW)の影響を受けています。
+
+[インストール](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fraw.githubusercontent.com%2FApp-Grove%2FAppGrove-s-Block-Filters%2Frefs%2Fheads%2Fmain%2FTwitter%2Fnative_context_menu.txt\&title=Native%20Context%20Menu%20for%20Twitter)
+
+```
+https://raw.githubusercontent.com/App-Grove/AppGrove-s-Block-Filters/refs/heads/main/Twitter/native_context_menu.txt
+```
+
 #### daizu's twitter mute words
 
 Twitterで不快なポストを非表示にするためのフィルターです。アカウントに関わらず、また抜け漏れなく、検索結果も含めてブロックします。  
